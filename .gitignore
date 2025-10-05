@@ -6,3 +6,7 @@ node_modules/
 /blob-report/
 /playwright/.cache/
 /playwright/.auth/
+*.DS_Store
+*.env
+*.env.test
+test-*.spec.ts
